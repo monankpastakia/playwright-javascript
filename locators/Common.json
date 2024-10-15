@@ -1,0 +1,8 @@
+{
+  "menuBar": {
+    "container": "nav[aria-label=\"Main\"]",
+    "logo": "img[alt=\"Playwright logo\"]",
+    "playwright": "//*[contains(@class, \"navbar__title\"]",
+    "menus": "//*[contains(@class,'navbar__item ')]"
+  }
+}

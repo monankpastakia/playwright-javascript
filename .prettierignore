@@ -1,0 +1,15 @@
+node_modules/*
+package.json
+package-lock.json
+allure-report/*
+allure-results/*
+playwright-report/*
+test-results/*
+playwright.config.js
+logs/*
+.gitignore
+README.md
+LICENSE
+eslint.config.js
+.prettierrc
+babel.config.js

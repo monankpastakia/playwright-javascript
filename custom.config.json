@@ -1,0 +1,6 @@
+{
+  "objectLoadTimeout": 30000,
+  "pageLoadTimeout": 60000,
+  "pause": 1000,
+  "locale": "en-US"
+}

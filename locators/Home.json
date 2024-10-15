@@ -1,0 +1,8 @@
+{
+  "homePage": {
+    "container": "//*[contains(@class,'main-wrapper ')]",
+    "heroBanner": "//header[contains(@class, 'heroBanner')]",
+    "heroTitle": "//h1[contains(@class, 'hero__title')]",
+    "getStartedBtn": "//a[contains(@class,'getStarted_Sjon')]"
+  }
+}
